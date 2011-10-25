@@ -1,4 +1,4 @@
-This folder contains the appended 2007-2010 data in a hopefully slightly smaller form with some of the variables left out, saved as "data.csv" or "data.RData". 
+[This folder](https://dl-web.dropbox.com/get/datadive_nyclu/Data.zip?w=a45327a6&dl=1) contains the appended 2007-2010 data in a hopefully slightly smaller form with some of the variables left out, saved as "data.csv" or "data.RData". 
 
 The same data set with the crime suspected, crime of arrest, and summons crime is "all.csv", "all.RData".
 
